@@ -8,7 +8,7 @@
 4. Run ```jupyter lab```
 
 ## Dataset
-To download the dataset, follow the link below:
+To download the dataset, follow the link:
 https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 Then extract the "Cat" and "Dog" folders into the "dataset" directory.
