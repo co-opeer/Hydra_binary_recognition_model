@@ -1,5 +1,7 @@
 # CNN binary classifier for hand recognition
 
+Binary CNN (Convolutional Neural Network) classifier designed to distinguish between images (cats and dogs as an example).
+
 ## How to use
 
 1. Create new virtual environment using ```python -m venv venv_name```(run this command in the project directory)
