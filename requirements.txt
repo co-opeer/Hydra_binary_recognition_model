@@ -1,0 +1,6 @@
+opencv-python
+numpy
+tqdm
+matplotlib
+jupyterlab
+tensorflow[and-cuda]
